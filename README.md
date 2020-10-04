@@ -1,2 +1,2 @@
-# srip
-P
+# SpamWa
+F
